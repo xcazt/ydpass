@@ -2,7 +2,7 @@
 
 ## 一、一键安装命令：
 ```
-wget https://raw.githubusercontent.com/anwang520520/ydpass/master/gyd && chmod 744 /root/gyd && ./gyd
+wget https://raw.githubusercontent.com/xcazt/ydpass/master/gyd && chmod 744 /root/gyd && ./gyd
 ```
 ## 二、后台运行
 
